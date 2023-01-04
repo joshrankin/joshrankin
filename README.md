@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my third semester of Software Development AAS and Web Development & Design AAS**
 
-- 🌱 I’m currently learning **Java, ASP.Net, Azure B2C, Wordpress**
+- 🌱 I’m currently learning **Java, ASP.NET, Azure B2C, Wordpress**
 
 - ⚡ Fun fact **I play drums and guitar**
 
